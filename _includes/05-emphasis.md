@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+The further away from the last time I did this the *less* I feel I remember. I **played** at programming in university, but I did spend some ***serious*** time in Max/MSP. It's just a damn shame there is no elegant VCS even now for that software. That was almost 10 __years__ ago.
